@@ -150,9 +150,7 @@ final class ClientData{
 	/** @required */
 	public int $UIProfile;
 
-    /** @required */
 	public string $Waterdog_XUID;
 
-	/** @required */
 	public string $Waterdog_IP;
 }
