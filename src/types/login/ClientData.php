@@ -142,6 +142,9 @@ final class ClientData{
 	public bool $ThirdPartyNameOnly;
 
 	/** @required */
+	public bool $TrustedSkin;
+
+	/** @required */
 	public int $UIProfile;
 
 	public string $Waterdog_XUID;
